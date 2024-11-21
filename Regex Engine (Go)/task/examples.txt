@@ -1,0 +1,44 @@
+a|a|true
+a|b|false
+.|a|true
+|a|true
+||true
+a||false
+apple|apple|true
+.pple|apple|true
+appl.|apple|true
+.....|apple|true
+peach|apple|false
+ap|apple|true
+le|apple|true
+a|apple|true
+.|apple|true
+apwle|apple|false
+apple$|tasty apple|true
+^apple|apple pie|true
+^apple$|apple|true
+^apple$|tasty apple|false
+^le|apple|false
+.$|apple|true
+colou?r|color|true
+colou?r|colour|true
+colou?r|colouur|false
+colou*r|color|true
+colou*r|colour|true
+colou*r|colouur|true
+col.*r|color|true
+col.*r|colour|true
+col.*r|colr|true
+col.*r|collar|true
+colou+r|colour|true
+.+|aaa|true
+no+$|noooooooope|false
+^no+|noooooooope|true
+^n.+pe$|noooooooope|true
+^.*c$|abcabc|true
+\.$|end.|true
+3\+3|3+3=6|true
+\?|Is this working?|true
+\\|\|true
+colou\?r|color|false
+colou\?r|colour|false

@@ -1,0 +1,101 @@
+hyperskill_project:
+  id: 254
+  ide_files: https://cogniterra.org/media/attachments/lesson/26485/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Thu, 21 Nov 2024 14:46:07 UTC"
+stages:
+  - id: 1278
+    step: 20461
+    is_completed: true
+  - id: 1279
+    step: 20462
+    is_completed: true
+  - id: 1280
+    step: 20463
+    is_completed: true
+  - id: 1281
+    step: 20464
+    is_completed: true
+  - id: 1282
+    step: 19439
+    is_completed: false
+  - id: 1283
+    step: 19440
+    is_completed: false
+topics:
+  0:
+    - title: Introduction to Go
+      theory_id: 17073
+    - title: Comments
+      theory_id: 16689
+    - title: Variables and constants
+      theory_id: 14468
+    - title: Pointers
+      theory_id: 15463
+    - title: Control statements
+      theory_id: 16235
+    - title: Primitive types
+      theory_id: 16871
+    - title: GoLand
+      theory_id: 19072
+    - title: Input/Output
+      theory_id: 14527
+    - title: Arrays
+      theory_id: 14871
+    - title: Slices
+      theory_id: 15656
+    - title: Strings
+      theory_id: 15412
+    - title: Operations with strings
+      theory_id: 18548
+    - title: Regular expression
+      theory_id: 7580
+  1:
+    - title: Loops
+      theory_id: 14707
+    - title: Packages
+      theory_id: 15906
+    - title: Arithmetic operations
+      theory_id: 16679
+    - title: Functions
+      theory_id: 16388
+    - title: Working with slices
+      theory_id: 15935
+    - title: String formatting
+      theory_id: 16860
+    - title: Slice expressions
+      theory_id: 20411
+    - title: Introduction to logging
+      theory_id: 5538
+    - title: Errors
+      theory_id: 16774
+    - title: Arithmetic expressions in programming
+      theory_id: 17289
+    - title: Advanced Input
+      theory_id: 18567
+  2:
+    - title: Type conversion and overflow
+      theory_id: 18710
+    - title: Functional decomposition
+      theory_id: 17506
+    - title: Code organization. Design principles
+      theory_id: 8956
+    - title: Single Responsibility Principle
+      theory_id: 8963
+  3:
+    - title: Structs
+      theory_id: 17490
+    - title: Methods
+      theory_id: 17739
+    - title: Modules
+      theory_id: 15970
+    - title: Main (compiling and running)
+      theory_id: 16128
+    - title: Debugging Go code
+      theory_id: 23076
+    - title: Compilers and interpreters
+      theory_id: 13865
+  4:
+    - title: Public and private scopes
+      theory_id: 17514
